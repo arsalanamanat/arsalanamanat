@@ -12,7 +12,7 @@
   <a href="https://arsalanamanat.github.io/Uber_clone/">Click Here</a>
   
   </div>
-[![Arslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=arsalanamanat)](https://github.com/arsalanamanat/github-readme-stats)
+[![Arslan's GitHub stats](https://github-readme-stats.vercel.app/apiarsalanamanat)](https://github.com/arsalanamanat/github-readme-stats)
 
 <!--
 **arsalanamanat/arsalanamanat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
