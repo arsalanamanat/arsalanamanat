@@ -1,12 +1,16 @@
 
 ![Header](https://github.com/arsalanamanat/arsalanamanat/blob/6a01527bf36d589be15e60faf4f5948621284804/readME_header.jpg)
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 
 
  <div align="center"> 
 ### Hi there 👋
 
 <h3 style="position: 0px auto">I am Full Stack Web Application Developer.<br> I love to write programs and solve real world problems. <br>I have a passion for learning and sharing my knowledge with others as public as possible. <br>🌱 I’m currently learning with <a href="https://github.com/orgs/HackYourFuture/dashboard">HackYourFuture</a><br>⚡ I love to Play Drums</h3>
+ <br>
+ ![](https://img.shields.io/badge/<HTML5>-<CSS3>-<JavaScript>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+ <br>
+ 
 
 <h2> Uber Clone </h2>
 <p> During my HTML and CSS Module with HackYourFuture i have cloned the Uber Website and make it responsive on all Devices . To View the clone please
