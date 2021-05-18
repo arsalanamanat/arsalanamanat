@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/arsalanamanat/Copy%20of%20Pastel%20Themed%20Fashion%20Blog%20Header%20-%20Made%20with%20PosterMyWall.jpg "Header")](https://some-url.dev/)
 
 <!--
 **arsalanamanat/arsalanamanat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
