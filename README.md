@@ -1,5 +1,6 @@
 
 ![Header](https://github.com/arsalanamanat/arsalanamanat/blob/6a01527bf36d589be15e60faf4f5948621284804/readME_header.jpg)
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
  <div align="center"> 
@@ -12,7 +13,7 @@
   <a href="https://arsalanamanat.github.io/Uber_clone/">Click Here</a>
   
   </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arsalanamanat)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **arsalanamanat/arsalanamanat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
