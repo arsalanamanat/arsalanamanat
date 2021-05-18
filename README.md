@@ -1,6 +1,6 @@
 
 ![Header](https://github.com/arsalanamanat/arsalanamanat/blob/6a01527bf36d589be15e60faf4f5948621284804/readME_header.jpg)
-![](https://img.shields.io/badge/<JavaScript>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<HTML>-<CSS>-<JavaScript>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
 
