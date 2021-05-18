@@ -1,5 +1,5 @@
 
-![Header](https://github.com/arsalanamanat/arsalanamanat/blob/15ef04b7d24eb67c58e6e1696bc0e416305b1748/ReadME_header.jpg)
+ <div align=”center”> (https://github.com/arsalanamanat/arsalanamanat/blob/15ef04b7d24eb67c58e6e1696bc0e416305b1748/ReadME_header.jpg)
 
 
 ### Hi there 👋
@@ -9,6 +9,8 @@
 <h2> Uber Clone </h2>
 <p> During my HTML and CSS Module with HackYourFuture i have cloned the Uber Website and make it responsive on all Devices . To View the clone please
   <a href="https://arsalanamanat.github.io/Uber_clone/">Click Here</a>
+  
+  </div>
 
 
 <!--
