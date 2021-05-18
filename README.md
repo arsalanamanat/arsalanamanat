@@ -1,7 +1,7 @@
 
- <div align=”center”> (https://github.com/arsalanamanat/arsalanamanat/blob/15ef04b7d24eb67c58e6e1696bc0e416305b1748/ReadME_header.jpg)
+[![Header](https://github.com/arsalanamanat/arsalanamanat/blob/15ef04b7d24eb67c58e6e1696bc0e416305b1748/ReadME_header.jpg)
 
-
+ <div align="center"> 
 ### Hi there 👋
 
 <h3 style="position: 0px auto">I am Full Stack Web Application Developer.<br> I love to write programs and solve real world problems. <br>I have a passion for learning and sharing my knowledge with others as public as possible. <br>🌱 I’m currently learning with <a href="https://github.com/orgs/HackYourFuture/dashboard">HackYourFuture</a><br>⚡ I love to Play Drums</h3>
