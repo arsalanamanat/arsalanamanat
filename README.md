@@ -20,7 +20,7 @@
   </a>
   
   
-   <a href="https://www.gmail.com/arsalan.amanat/">
+   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzDfcxwdpbLFLWpbQWTgmBFnHjFpkxxcMbbjGJwdSQLngsczcjnrzDJsQSqwFngVljnCRxD/">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
