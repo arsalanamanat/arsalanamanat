@@ -10,7 +10,7 @@
 <h4 style="position: 0px auto"> --> I am Learning Full Stack Web Application Developing with <a href="https://github.com/orgs/HackYourFuture/dashboard">HackYourFuture.</a><br>  --> I love to write programs and solve real world problems. <br>--> I have a passion for learning and sharing my knowledge with others as public as possible. </h4>
 
   
-  ## Find Me On
+  ## 📱 Find Me On
   <a href="https://www.linkedin.com/in/arsalanamanat/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -21,7 +21,7 @@
   <br>
   
   
-  ## Tools & Languages
+  ## 🧰 Tools & Languages
  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">   <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
  
 
