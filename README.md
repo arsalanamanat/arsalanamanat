@@ -4,7 +4,7 @@
 
 
  <div align="center"> 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h2>#Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
 
 <h3 style="position: 0px auto">I am Full Stack Web Application Developer.<br> I love to write programs and solve real world problems. <br>I have a passion for learning and sharing my knowledge with others as public as possible. <br>🌱 I’m currently learning with <a href="https://github.com/orgs/HackYourFuture/dashboard">HackYourFuture</a><br>⚡ I love to Play Drums</h3>
@@ -12,7 +12,10 @@
 
 
 
+
   </div>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arsalanamanat&show_icons=true)
+  
   
   ## &#x1f4c8; GitHub Stats
 
