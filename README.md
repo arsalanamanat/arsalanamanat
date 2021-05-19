@@ -1,5 +1,5 @@
 
-![Header](https://github.com/arsalanamanat/arsalanamanat/blob/c1f870810eb9c62ae4a045a88cc4c570765ada59/readME_header.jpg)
+![Header](https://github.com/arsalanamanat/arsalanamanat/blob/31f788614b4d1a9596bc8cf7ad4e936d352631db/GrayScale.jpg)
 
 
 
