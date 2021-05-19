@@ -23,22 +23,13 @@
   
   ## 🧰 Tools & Languages
  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">   <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
- 
 
- 
-  
-  
-
-  
-  
-  
-  
   
   ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/arsalanamanat/arsalanamanat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsalanamanat&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" /></a>
-  
+ <br><br> 
 <a href="https://github.com/arsalanamanat/arsalanamanat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arsalanamanat&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
@@ -49,10 +40,6 @@
 
 <br>
 
-[1.1]: http://i.imgur.com/tXSoThF.png 
-[2.1]: http://i.imgur.com/0o48UoR.png 
-[2]: https://github.com/arsalanamanat
-[3]: https://www.linkedin.com/in/arsalanamanat
 
 
 <!--
