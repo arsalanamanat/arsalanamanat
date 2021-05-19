@@ -18,14 +18,14 @@
   <a href="https://www.github.com/arsalanamanat/">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  
+  <br>
     ## Tools & Languages
  
- <img src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
- <img src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
- <img src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
- <img src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
- <img src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+ <img src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+ <img src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+ <img src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+ <img src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+ <img src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
  
   
   
