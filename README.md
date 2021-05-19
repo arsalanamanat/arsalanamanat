@@ -20,6 +20,13 @@
   </a>
   
   
+   <a href="https://www.gmail.com/arsalan.amanat/">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  
+  
+  
   
   
   ## &#x1f4c8; GitHub Stats
