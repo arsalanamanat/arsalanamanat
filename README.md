@@ -7,7 +7,7 @@
 <h2>#Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
 
-<h5 style="position: 0px auto">I am Learning Full Stack Web Application Developing with <a href="https://github.com/orgs/HackYourFuture/dashboard">HackYourFuture</a><br> . I love to write programs and solve real world problems. <br>I have a passion for learning and sharing my knowledge with others as public as possible. </h5>
+<h4 style="position: 0px auto"> --> I am Learning Full Stack Web Application Developing with <a href="https://github.com/orgs/HackYourFuture/dashboard">HackYourFuture.</a><br>  --> I love to write programs and solve real world problems. <br>--> I have a passion for learning and sharing my knowledge with others as public as possible. </h4>
 
   
   ## Find Me On
