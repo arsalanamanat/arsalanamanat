@@ -12,6 +12,7 @@
 
   </div>
   
+  ## Find Me On
   <a href="https://www.linkedin.com/in/arsalanamanat/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
