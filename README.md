@@ -13,11 +13,16 @@
 
 
 
+
   
   ## 📱 Find Me On
-  <a href="https://www.linkedin.com/in/arsalanamanat/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://www.linkedin.com/in/arsalanamanat/ )  
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/arsalanamanat//)  
+  
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](arsalan.amnat@gmail.com)  
+
+
   
   <a href="https://www.github.com/arsalanamanat/">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
