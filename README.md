@@ -1,14 +1,17 @@
 
+
+
+<h2>#Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+<h4 style="position: 0px auto"> 
+-- I am Learning Full Stack Web Application Developing with <a href="https://github.com/orgs/HackYourFuture/dashboard">HackYourFuture.</a>
+-- I love to write programs and solve real world problems.
+-- I have a passion for learning and sharing my knowledge with others as public as possible. </h4>
+
+
+
 ![Header](https://github.com/arsalanamanat/arsalanamanat/blob/63a99f0fcb425ab946edd2d75ea9f226e624b317/readME_header.jpg)
 
 
-
-
-<h2>#Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-
-
-<h4 style="position: 0px auto"> --> I am Learning Full Stack Web Application Developing with <a href="https://github.com/orgs/HackYourFuture/dashboard">HackYourFuture.</a><br>  --> I love to write programs and solve real world problems. </br>
---> I have a passion for learning and sharing my knowledge with others as public as possible. </h4>
 
   
   ## 📱 Find Me On
