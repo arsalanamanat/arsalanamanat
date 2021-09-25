@@ -28,6 +28,12 @@
  
  
   ## &#x1f4c8; GitHub Stats
+  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arsalanamanat&show_icons=true)  
+  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arsalanamanat&show_icons=true)  
+  
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arsalanamanat) 
 
 
 <a href="https://github.com/arsalanamanat/arsalanamanat">
