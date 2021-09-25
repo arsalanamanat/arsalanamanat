@@ -40,7 +40,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsalanamanat&repo=HackYourChatApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsalanamanatp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsalanamanatp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/arsalanamanat/github-readme-stats)
 
 <br>
 
