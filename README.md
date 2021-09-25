@@ -29,20 +29,18 @@
  
   ## &#x1f4c8; GitHub Stats
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arsalanamanat&show_icons=true)  
-  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arsalanamanat&show_icons=true)  
-  
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arsalanamanat) 
-
 
 <a href="https://github.com/arsalanamanat/arsalanamanat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arsalanamanat&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
+
+</br>
 <a href="https://github.com/arsalanamanat/HackYourChatApp.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsalanamanat&repo=HackYourChatApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsalanamanatp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
