@@ -4,7 +4,7 @@
 <h2>#Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> It's Arslan Amanat</h2>
 <h4 style="position: 0px auto"> 
   
- <center>  | ![image](https://user-images.githubusercontent.com/78694077/134818817-63eb9b0e-4843-4be0-ada8-ed140f2e1635.png)
+ <center>  ![image](https://user-images.githubusercontent.com/78694077/134818817-63eb9b0e-4843-4be0-ada8-ed140f2e1635.png)
 
   </center>
 
