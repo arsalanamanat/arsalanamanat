@@ -7,12 +7,11 @@
  
   First Header | Second Header
 ------------ | -------------
-* I am Learning Full Stack Development at <a href="https://github.com/orgs/HackYourFuture/dashboard">HackYourFuture - Amsterdam.</a>
+* I am Learning Full Stack Development at <a href="https://github.com/orgs/HackYourFuture/dashboard">HackYourFuture - Amsterdam.</a>  | ![image](https://user-images.githubusercontent.com/78694077/134818817-63eb9b0e-4843-4be0-ada8-ed140f2e1635.png)
+
+
 * I love to write programs and solve real world problems.
 * I have a passion for learning and sharing my knowledge with others </h4>
- | ![image](https://user-images.githubusercontent.com/78694077/134818817-63eb9b0e-4843-4be0-ada8-ed140f2e1635.png)
-
-
 
   
   ## 📱 Find Me On
