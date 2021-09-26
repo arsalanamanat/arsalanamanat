@@ -7,7 +7,7 @@
  
 * I am Learning Full Stack Development at <a href="https://github.com/orgs/HackYourFuture/dashboard">HackYourFuture - Amsterdam.</a>
 * I love to write programs and solve real world problems.
-* I have a passion for learning and sharing my knowledge with others as public as possible. </h4>
+* I have a passion for learning and sharing my knowledge with others </h4>
 
 
 
