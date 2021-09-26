@@ -4,12 +4,12 @@
 <h2>#Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> It's Arslan Amanat</h2>
 <h4 style="position: 0px auto"> 
   
- 
-  First Header | Second Header
+ <center>  | ![image](https://user-images.githubusercontent.com/78694077/134818817-63eb9b0e-4843-4be0-ada8-ed140f2e1635.png)
+
+  </center>
+
 ------------ | -------------
-* I am Learning Full Stack Development at <a href="https://github.com/orgs/HackYourFuture/dashboard">HackYourFuture - Amsterdam.</a>  | ![image](https://user-images.githubusercontent.com/78694077/134818817-63eb9b0e-4843-4be0-ada8-ed140f2e1635.png)
-
-
+* I am Learning Full Stack Development at <a href="https://github.com/orgs/HackYourFuture/dashboard">HackYourFuture - Amsterdam.</a> 
 * I love to write programs and solve real world problems.
 * I have a passion for learning and sharing my knowledge with others </h4>
 
