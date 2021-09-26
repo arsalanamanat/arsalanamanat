@@ -10,12 +10,6 @@
 * I have a passion for learning and sharing my knowledge with others </h4>
 
 
-
-![Header](https://github.com/arsalanamanat/arsalanamanat/blob/63a99f0fcb425ab946edd2d75ea9f226e624b317/readME_header.jpg)
-
-
-
-
   
   ## 📱 Find Me On
   
